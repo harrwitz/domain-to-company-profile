@@ -1,0 +1,432 @@
+{
+  "results": [
+    {
+      "domain": "hubspot.com",
+      "intelligence": {
+        "company_overview": "HubSpot is a leading customer relationship management (CRM) platform that provides software, support, and services to help businesses grow better. Its comprehensive suite of tools helps organizations manage marketing, sales, content management, and customer service.",
+        "target_audience": "Businesses and enterprises looking to scale, grow, and manage their marketing, sales, and customer service operations efficiently.",
+        "contact_points": [],
+        "key_leadership": [
+          {
+            "name": "Yamini Rangan",
+            "role": "Chief Executive Officer",
+            "linkedin_url": "https://www.linkedin.com/in/yaminirangan",
+            "source_url": "https://www.hubspot.com/company/management?hubs_content=www.hubspot.com%2Fhomepg-b&hubs_content-cta=nav-utility-management&wfoid=4f622bcee1.1789374956",
+            "linkedin_source": "website"
+          },
+          {
+            "name": "Dharmesh Shah",
+            "role": "Co-Founder",
+            "linkedin_url": null,
+            "source_url": "https://www.hubspot.com/company/management?hubs_content=www.hubspot.com%2Fhomepg-b&hubs_content-cta=nav-utility-management&wfoid=4f622bcee1.1789374956",
+            "linkedin_source": null
+          },
+          {
+            "name": "Duncan Lennox",
+            "role": "Team Member",
+            "linkedin_url": "https://www.linkedin.com/in/lennox",
+            "source_url": "https://www.hubspot.com/company/management?hubs_content=www.hubspot.com%2Fhomepg-b&hubs_content-cta=nav-utility-management&wfoid=4f622bcee1.1789374956",
+            "linkedin_source": "website"
+          },
+          {
+            "name": "Kate Bueker",
+            "role": "Chief Financial Officer",
+            "linkedin_url": "https://www.linkedin.com/in/kate-bueker-25b0231",
+            "source_url": "https://www.hubspot.com/company/management?hubs_content=www.hubspot.com%2Fhomepg-b&hubs_content-cta=nav-utility-management&wfoid=4f622bcee1.1789374956",
+            "linkedin_source": "website"
+          },
+          {
+            "name": "Erika Fisher",
+            "role": "Chief Legal Officer",
+            "linkedin_url": "https://www.linkedin.com/in/erikaafisher",
+            "source_url": "https://www.hubspot.com/company/management?hubs_content=www.hubspot.com%2Fhomepg-b&hubs_content-cta=nav-utility-management&wfoid=4f622bcee1.1789374956",
+            "linkedin_source": "website"
+          },
+          {
+            "name": "Helen Russell",
+            "role": "Chief People Officer",
+            "linkedin_url": "https://www.linkedin.com/in/helen-russell-39294b19",
+            "source_url": "https://www.hubspot.com/company/management?hubs_content=www.hubspot.com%2Fhomepg-b&hubs_content-cta=nav-utility-management&wfoid=4f622bcee1.1789374956",
+            "linkedin_source": "website"
+          },
+          {
+            "name": "Kipp Bodnar",
+            "role": "Chief Marketing Officer",
+            "linkedin_url": "https://www.linkedin.com/in/kippbodnar",
+            "source_url": "https://www.hubspot.com/company/management?hubs_content=www.hubspot.com%2Fhomepg-b&hubs_content-cta=nav-utility-management&wfoid=4f622bcee1.1789374956",
+            "linkedin_source": "website"
+          },
+          {
+            "name": "Jon Dick",
+            "role": "Chief Customer Officer",
+            "linkedin_url": "http://www.linkedin.com/in/jondick",
+            "source_url": "https://www.hubspot.com/company/management?hubs_content=www.hubspot.com%2Fhomepg-b&hubs_content-cta=nav-utility-management&wfoid=4f622bcee1.1789374956",
+            "linkedin_source": "website"
+          },
+          {
+            "name": "Brian Halligan",
+            "role": "Co-Founder",
+            "linkedin_url": "https://www.linkedin.com/in/brianhalligan",
+            "source_url": "https://www.hubspot.com/company/board-of-directors?hubs_content=www.hubspot.com%2Fhomepg-b&hubs_content-cta=footer-company-directors&wfoid=4f622bcee1.1789374956",
+            "linkedin_source": "search_verified"
+          },
+          {
+            "name": "Andrew Anagnost",
+            "role": "Team Member",
+            "linkedin_url": "https://www.linkedin.com/in/andrewanagnost",
+            "source_url": "https://www.hubspot.com/company/board-of-directors?hubs_content=www.hubspot.com%2Fhomepg-b&hubs_content-cta=footer-company-directors&wfoid=4f622bcee1.1789374956",
+            "linkedin_source": "website"
+          },
+          {
+            "name": "David Meerman Scott",
+            "role": "Team Member",
+            "linkedin_url": "https://www.linkedin.com/in/davidmeermanscott",
+            "source_url": "https://www.hubspot.com/company/advisory-board?hubs_content=www.hubspot.com/homepg-b&hubs_content-cta=nav-utility-management&wfoid=4f622bcee1.1789374956",
+            "linkedin_source": "website"
+          },
+          {
+            "name": "Mark Roberge",
+            "role": "Team Member",
+            "linkedin_url": "https://www.linkedin.com/in/markroberge",
+            "source_url": "https://www.hubspot.com/company/advisory-board?hubs_content=www.hubspot.com/homepg-b&hubs_content-cta=nav-utility-management&wfoid=4f622bcee1.1789374956",
+            "linkedin_source": "website"
+          },
+          {
+            "name": "Glenn Newman",
+            "role": "Founder",
+            "linkedin_url": "https://www.linkedin.com/in/glenn-e-newman-jr",
+            "source_url": "https://www.hubspot.com/company/advisory-board?hubs_content=www.hubspot.com/homepg-b&hubs_content-cta=nav-utility-management&wfoid=4f622bcee1.1789374956",
+            "linkedin_source": "website"
+          },
+          {
+            "name": "Rajkumari Neogy",
+            "role": "CEO",
+            "linkedin_url": "https://www.linkedin.com/in/rneogy",
+            "source_url": "https://www.hubspot.com/company/advisory-board?hubs_content=www.hubspot.com/homepg-b&hubs_content-cta=nav-utility-management&wfoid=4f622bcee1.1789374956",
+            "linkedin_source": "website"
+          }
+        ],
+        "data_confidence_score": 0.8
+      },
+      "pages_crawled": 9,
+      "crawl_stats": {
+        "pages_crawled": 9,
+        "pages_failed": 0,
+        "candidate_links_found": 753,
+        "relevant_links_selected": 8,
+        "leadership_pages_found": 61,
+        "selected_pages": [
+          {
+            "url": "https://hubspot.com",
+            "score": 0,
+            "reason": "Homepage",
+            "title": "HubSpot | Software & Tools for your Business - Homepage",
+            "is_leadership_relevant": false
+          },
+          {
+            "url": "https://www.hubspot.com/our-story?hubs_content=www.hubspot.com%2Fhomepg-b&hubs_content-cta=nav-utility-about&wfoid=4f622bcee1.1789374956",
+            "score": 40,
+            "reason": "Founder signal in link: 'our-story' (+38); Company/about keyword in anchor text: 'about' (+15)",
+            "title": "About HubSpot | HubSpot’s Story",
+            "is_leadership_relevant": true
+          },
+          {
+            "url": "https://www.hubspot.com/company/management?hubs_content=www.hubspot.com%2Fhomepg-b&hubs_content-cta=nav-utility-management&wfoid=4f622bcee1.1789374956",
+            "score": 37,
+            "reason": "Leadership page signal in path: 'management' (+35); Corporate team signal in link: 'team' (+30); Company/about signal in path: 'company' (+28)",
+            "title": "HubSpot Management Team | Executive Team & Board of Directors",
+            "is_leadership_relevant": true
+          },
+          {
+            "url": "https://www.hubspot.com/company/board-of-directors?hubs_content=www.hubspot.com%2Fhomepg-b&hubs_content-cta=footer-company-directors&wfoid=4f622bcee1.1789374956",
+            "score": 37,
+            "reason": "Leadership keyword in product compound: 'board' (+8, not leadership); Leadership/people signal in anchor: 'board' (+35); Company/about signal in path: 'company' (+28)",
+            "title": "HubSpot Board of Directors",
+            "is_leadership_relevant": true
+          },
+          {
+            "url": "https://www.hubspot.com/company/advisory-board?hubs_content=www.hubspot.com/homepg-b&hubs_content-cta=nav-utility-management&wfoid=4f622bcee1.1789374956",
+            "score": 37,
+            "reason": "Leadership keyword in product compound: 'board' (+8, not leadership); Leadership/people signal in anchor: 'board' (+35); People/team keyword in surrounding context: 'team' (+10); Company/about signal in path: 'company' (+28)",
+            "title": "HubSpot Advisory Board",
+            "is_leadership_relevant": true
+          },
+          {
+            "url": "https://www.hubspot.com/company/management/yamini-rangan?hubs_content=www.hubspot.com/homepg-b&hubs_content-cta=nav-utility-management&wfoid=4f622bcee1.1789374956",
+            "score": 37,
+            "reason": "Leadership page signal in path: 'management' (+35); People/team keyword in surrounding context: 'team' (+10); Company/about signal in path: 'company' (+28)",
+            "title": "Yamini Rangan, Chief Executive Officer",
+            "is_leadership_relevant": true
+          },
+          {
+            "url": "https://www.hubspot.com/company/management/dharmesh-shah?hubs_content=www.hubspot.com/homepg-b&hubs_content-cta=nav-utility-management&wfoid=4f622bcee1.1789374956",
+            "score": 37,
+            "reason": "Leadership page signal in path: 'management' (+35); Company/about signal in path: 'company' (+28)",
+            "title": "Dharmesh Shah, HubSpot CTO and Founder",
+            "is_leadership_relevant": true
+          },
+          {
+            "url": "https://www.hubspot.com/company/management/duncan-lennox?hubs_content=www.hubspot.com/homepg-b&hubs_content-cta=nav-utility-management&wfoid=4f622bcee1.1789374956",
+            "score": 37,
+            "reason": "Founder signal in surrounding context: 'founder' (+20); Leadership page signal in path: 'management' (+35); Company/about signal in path: 'company' (+28)",
+            "title": "Duncan Lennox | Chief Product & Technology Officer",
+            "is_leadership_relevant": true
+          },
+          {
+            "url": "https://www.hubspot.com/company/management/kate-bueker-cfo?hubs_content=www.hubspot.com/homepg-b&hubs_content-cta=nav-utility-management&wfoid=4f622bcee1.1789374956",
+            "score": 37,
+            "reason": "Leadership page signal in path: 'management' (+35); Company/about signal in path: 'company' (+28)",
+            "title": "Kate Bueker, HubSpot Chief Financial Officer",
+            "is_leadership_relevant": true
+          }
+        ],
+        "candidates_detected": 36,
+        "candidates_verified": 14,
+        "candidates_rejected": 22
+      },
+      "model_used": "gemini-3.5-flash-lite",
+      "cost_usd": 0.0,
+      "tokens_used": 11543,
+      "errors": []
+    },
+    {
+      "domain": "figma.com",
+      "intelligence": {
+        "company_overview": "Figma is a collaborative canvas and product development platform that connects design, code, and AI in a single workspace. It empowers teams to turn ideas into apps, websites, and products while streamlining collaboration from brainstorming to production.",
+        "target_audience": "Product teams, UI/UX designers, developers, and growing organizations building applications and digital products.",
+        "contact_points": [],
+        "key_leadership": [
+          {
+            "name": "Dylan Field",
+            "role": "Co-founder",
+            "linkedin_url": null,
+            "source_url": "https://www.figma.com/blog/config-brian-chesky-airbnb/",
+            "linkedin_source": null
+          }
+        ],
+        "data_confidence_score": 0.8
+      },
+      "pages_crawled": 9,
+      "crawl_stats": {
+        "pages_crawled": 9,
+        "pages_failed": 1,
+        "candidate_links_found": 197,
+        "relevant_links_selected": 8,
+        "leadership_pages_found": 1,
+        "selected_pages": [
+          {
+            "url": "https://figma.com",
+            "score": 0,
+            "reason": "Homepage",
+            "title": "Figma: The collaborative canvas for design, code, and AI",
+            "is_leadership_relevant": false
+          },
+          {
+            "url": "https://www.figma.com/figjam/",
+            "score": 35,
+            "reason": "Leadership/people signal in anchor: 'board' (+35)",
+            "title": "FigJam: The Online Collaborative Whiteboard for Teams",
+            "is_leadership_relevant": false
+          },
+          {
+            "url": "https://www.figma.com/organization/",
+            "score": 30,
+            "reason": "Company/about signal in path: 'organization' (+28)",
+            "title": "Figma Organization | Building Products at Scale",
+            "is_leadership_relevant": false
+          },
+          {
+            "url": "https://www.figma.com/blog/",
+            "score": 24,
+            "reason": "Company/about keyword in anchor text: 'about' (+15); Corporate article/news root: 'blog' (+24)",
+            "title": "Figma Blog | Shortcut",
+            "is_leadership_relevant": false
+          },
+          {
+            "url": "https://www.figma.com/blog/leadership/",
+            "score": 37,
+            "reason": "Leadership keyword in product compound: 'leaders' (+8, not leadership); Leadership/people signal in anchor: 'leaders' (+35)",
+            "title": "Tag: Leadership | Figma Blog",
+            "is_leadership_relevant": false
+          },
+          {
+            "url": "https://www.figma.com/blog/config-brian-chesky-airbnb/",
+            "score": 38,
+            "reason": "Founder signal in link: 'founder' (+38); Company/about keyword in anchor text: 'about' (+15)",
+            "title": "Navigating the intersection of design and business: a conversation with Airbnb’s Brian Chesky | Figma Blog",
+            "is_leadership_relevant": false
+          },
+          {
+            "url": "https://www.figma.com/blog/thought-leadership/",
+            "score": 37,
+            "reason": "Leadership keyword in product compound: 'leaders' (+8, not leadership); Leadership/people signal in anchor: 'leaders' (+35)",
+            "title": null,
+            "is_leadership_relevant": false
+          },
+          {
+            "url": "https://www.figma.com/blog/how-ai-leaders-are-borrowing-from-the-design-playbook/",
+            "score": 37,
+            "reason": "Leadership keyword in product compound: 'leaders' (+8, not leadership); Leadership/people signal in anchor: 'leaders' (+35)",
+            "title": null,
+            "is_leadership_relevant": false
+          },
+          {
+            "url": "https://www.figma.com/blog/sightlines-issue-no2/",
+            "score": 35,
+            "reason": "Leadership/people signal in anchor: 'leaders' (+35); Company/about keyword in anchor text: 'about' (+15)",
+            "title": null,
+            "is_leadership_relevant": false
+          }
+        ],
+        "candidates_detected": 8,
+        "candidates_verified": 2,
+        "candidates_rejected": 6
+      },
+      "model_used": "gemini-3.5-flash-lite",
+      "cost_usd": 0.0,
+      "tokens_used": 5546,
+      "errors": []
+    },
+    {
+      "domain": "gitlab.com",
+      "intelligence": {
+        "company_overview": "GitLab is the company behind the intelligent orchestration platform where development teams and their AI agents ship secure software faster. It provides a comprehensive DevSecOps solution that helps millions of users deliver software efficiently while strengthening security and compliance.",
+        "target_audience": "Development teams, programmers, and enterprises looking to build, secure, and deliver software faster using DevSecOps platforms and AI agents.",
+        "contact_points": [
+          "ir@gitlab.com",
+          "f5573e26de8f4293b285e556c35dfd6e@new-sentry.gitlab.net",
+          "abc@xyz.com"
+        ],
+        "key_leadership": [
+          {
+            "name": "Jessica Ross",
+            "role": "Chief Financial Officer",
+            "linkedin_url": "https://www.linkedin.com/in/jessicapross",
+            "source_url": "https://about.gitlab.com/company/team/e-group/",
+            "linkedin_source": "search_verified"
+          },
+          {
+            "name": "Ian Steward",
+            "role": "Chief Revenue Officer",
+            "linkedin_url": "https://www.linkedin.com/in/isteward",
+            "source_url": "https://about.gitlab.com/company/team/e-group/",
+            "linkedin_source": "search_verified"
+          },
+          {
+            "name": "Siva Padisetty",
+            "role": "Chief Technology Officer",
+            "linkedin_url": null,
+            "source_url": "https://about.gitlab.com/company/team/e-group/",
+            "linkedin_source": null
+          },
+          {
+            "name": "Manu Narayan",
+            "role": "Chief Information Officer",
+            "linkedin_url": null,
+            "source_url": "https://about.gitlab.com/company/team/e-group/",
+            "linkedin_source": null
+          },
+          {
+            "name": "Rob Allen",
+            "role": "Chief People Officer",
+            "linkedin_url": null,
+            "source_url": "https://about.gitlab.com/company/team/e-group/",
+            "linkedin_source": null
+          },
+          {
+            "name": "Sherrod Patching",
+            "role": "Chief Customer Officer",
+            "linkedin_url": null,
+            "source_url": "https://about.gitlab.com/company/team/e-group/",
+            "linkedin_source": null
+          }
+        ],
+        "data_confidence_score": 0.9
+      },
+      "pages_crawled": 9,
+      "crawl_stats": {
+        "pages_crawled": 9,
+        "pages_failed": 2,
+        "candidate_links_found": 161,
+        "relevant_links_selected": 8,
+        "leadership_pages_found": 4,
+        "selected_pages": [
+          {
+            "url": "https://gitlab.com",
+            "score": 0,
+            "reason": "Homepage",
+            "title": "GitLab - Speed with control for agentic software engineering",
+            "is_leadership_relevant": false
+          },
+          {
+            "url": "https://gitlab.com/Company",
+            "score": 30,
+            "reason": "Company/about signal in path: 'company' (+28)",
+            "title": "Avox company · GitLab",
+            "is_leadership_relevant": false
+          },
+          {
+            "url": "https://ir.gitlab.com/overview/default.aspx",
+            "score": 30,
+            "reason": "Company/about signal in path: 'overview' (+28)",
+            "title": "GitLab Inc. - Investor Relations",
+            "is_leadership_relevant": false
+          },
+          {
+            "url": "https://about.gitlab.com/company/team/e-group/",
+            "score": 37,
+            "reason": "Leadership/people signal in anchor: 'executive' (+35); Corporate team signal in link: 'team' (+30); Company/about signal in path: 'company' (+28)",
+            "title": "GitLab's Executive Team",
+            "is_leadership_relevant": true
+          },
+          {
+            "url": "https://about.gitlab.com/company/team/board-of-directors/",
+            "score": 37,
+            "reason": "Leadership keyword in product compound: 'board' (+8, not leadership); Leadership/people signal in anchor: 'board' (+35); Corporate team signal in link: 'team' (+30); Company/about signal in path: 'company' (+28)",
+            "title": "GitLab's Board of Directors",
+            "is_leadership_relevant": true
+          },
+          {
+            "url": "https://about.gitlab.com/company/",
+            "score": 30,
+            "reason": "Company/about signal in path: 'company' (+28)",
+            "title": "About GitLab - The Intelligent Orchestration Platform",
+            "is_leadership_relevant": false
+          },
+          {
+            "url": "https://gitlab.com/Company.atom",
+            "score": 28,
+            "reason": "Company/about signal in path: 'company' (+28)",
+            "title": null,
+            "is_leadership_relevant": false
+          },
+          {
+            "url": "https://ir.gitlab.com/overview/",
+            "score": 10,
+            "reason": "Direct crawl",
+            "title": "GitLab Inc. - Investor Relations",
+            "is_leadership_relevant": false
+          },
+          {
+            "url": "https://about.gitlab.com/company/contact/",
+            "score": 28,
+            "reason": "Company/about signal in path: 'company' (+28); Announcement/press signal: 'news' (+22); Contact signal: 'contact' (+15)",
+            "title": "Contact",
+            "is_leadership_relevant": false
+          }
+        ],
+        "candidates_detected": 9,
+        "candidates_verified": 7,
+        "candidates_rejected": 2
+      },
+      "model_used": "gemini-3.5-flash-lite",
+      "cost_usd": 0.0,
+      "tokens_used": 5281,
+      "errors": []
+    }
+  ],
+  "total_domains": 3,
+  "model_used": "gemini-3.5-flash-lite",
+  "total_cost_usd": 0.0,
+  "total_tokens": 22370
+}
