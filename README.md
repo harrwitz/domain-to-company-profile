@@ -2,15 +2,6 @@
 
 An autonomous Python agent that takes company domains as input, crawls and parses their public web presence using headless browser automation (Playwright), cleans and optimizes content, and outputs structured company intelligence using OpenAI structured outputs with strict Pydantic schemas.
 
----
-
-## 📑 Operations Question Confirmation
-
-> **Question:** Are you 100% comfortable spending roughly 40% of your working hours on manual lead prospecting, email discovery, and account handling alongside your AI engineering tasks? (Yes / No)
->
-> **Answer:** **YES.**
-
----
 
 ## 🏛️ System Architecture
 
