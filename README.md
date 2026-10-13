@@ -1,6 +1,6 @@
 # 🚀 Autonomous Lead Enrichment Agent
 
-An autonomous Python agent that takes company domains as input, crawls and parses their public web presence using headless browser automation (Playwright), cleans and optimizes content, and outputs structured company intelligence using OpenAI structured outputs with strict Pydantic schemas.
+An autonomous Python agent that takes company domains as input, crawls and parses their public web presence using headless browser automation (Playwright), cleans and optimizes content, and outputs structured company leads using OpenAI structured outputs with strict Pydantic schemas.
 
 
 ## 🏛️ System Architecture
